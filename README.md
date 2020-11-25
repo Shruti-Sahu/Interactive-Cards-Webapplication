@@ -1,2 +1,2 @@
 # Interactive-Cards-Website
-This web application is specially built with features like revealing cards on hovering.
+This web application designed for cards is specially built with interactive features like revealing cards on hovering and many more.
